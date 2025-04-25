@@ -1,6 +1,6 @@
 ### README para Projeto de Reconhecimento de Fala
 
-```markdown
+
 # Projeto de Reconhecimento de Fala
 
 Este projeto é uma aplicação simples de reconhecimento de fala usando a biblioteca `speech_recognition` do Python. O programa captura o áudio do microfone, converte a fala em texto e salva o áudio em um arquivo WAV.
